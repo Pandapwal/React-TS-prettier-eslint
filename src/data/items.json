@@ -1,0 +1,106 @@
+[
+    {
+        "id": "62cc4e0de80c41994fc5877b",
+        "iterations": 27,
+        "rotations": 336,
+        "color": "yellow",
+        "levels": 97,
+        "shape": "triangle"
+    },
+    {
+        "id": "62cc4e0dc120c020508b3fb1",
+        "iterations": 16,
+        "rotations": 354,
+        "color": "blue",
+        "levels": 82,
+        "shape": "square"
+    },
+    {
+        "id": "62cc4e0d1374613229e59ad0",
+        "iterations": 12,
+        "rotations": 15,
+        "color": "red",
+        "levels": 68,
+        "shape": "line"
+    },
+    {
+        "id": "62cc4e0de7255f5c63d78508",
+        "iterations": 17,
+        "rotations": 331,
+        "color": "green",
+        "levels": 27,
+        "shape": "square"
+    },
+    {
+        "id": "62cc4e0de43d8aa228e94f8d",
+        "iterations": 46,
+        "rotations": 238,
+        "color": "white",
+        "levels": 93,
+        "shape": "square"
+    },
+    {
+        "id": "62cc4e0d1ca1e89fc526b3c3",
+        "iterations": 10,
+        "rotations": 128,
+        "color": "red",
+        "levels": 96,
+        "shape": "circle"
+    },
+    {
+        "id": "62cc4e0ddd29853d4eee21bb",
+        "iterations": 9,
+        "rotations": 196,
+        "color": "blue",
+        "levels": 54,
+        "shape": "triangle"
+    },
+    {
+        "id": "62cc4e0d3a17427dc0fbbf47",
+        "iterations": 20,
+        "rotations": 345,
+        "color": "blue",
+        "levels": 94,
+        "shape": "triangle"
+    },
+    {
+        "id": "62cc4e0dc6836c8940fa294d",
+        "iterations": 35,
+        "rotations": 329,
+        "color": "yellow",
+        "levels": 28,
+        "shape": "square"
+    },
+    {
+        "id": "62cc4e0d866775efb62b4824",
+        "iterations": 50,
+        "rotations": 56,
+        "color": "yellow",
+        "levels": 45,
+        "shape": "circle"
+    },
+    {
+        "id": "62cc4e0d58f38c80a715f573",
+        "iterations": 41,
+        "rotations": 357,
+        "color": "blue",
+        "levels": 27,
+        "shape": "pentagon"
+    },
+    {
+        "id": "62cc4e0db86b0a95ad73df98",
+        "iterations": 45,
+        "rotations": 268,
+        "color": "white",
+        "levels": 8,
+        "shape": "triangle"
+    },
+    {
+        "id": "62cc4e0d282990aeb43336a8",
+        "iterations": 43,
+        "rotations": 169,
+        "color": "red",
+        "levels": 99,
+        "shape": "circle"
+    }
+]
